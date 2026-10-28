@@ -1,0 +1,6 @@
+{
+  "name": "CampusConnect - Multi-Tenant Campus SaaS",
+  "description": "Multi-Tenant Campus Operations, Events, QR Attendance, Verified Certificates & Student Networking SaaS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
